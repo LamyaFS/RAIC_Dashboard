@@ -4,7 +4,7 @@
 🔗 **Live Dashboard:**  
 https://raic-tool-scouter-dashboard.streamlit.app/
 
----
+
 
 ## 📌 Project Overview
 
@@ -12,7 +12,7 @@ This project is part of the **QS RAIC Experiential Learning Programme**, develop
 
 It focuses on building an **AI-powered mapping and analytics dashboard** to support research into **sustainable alternatives to deep-sea mining**, helping visualize and evaluate responsible innovation solutions globally.
 
----
+
 
 ## 👥 Team
 
